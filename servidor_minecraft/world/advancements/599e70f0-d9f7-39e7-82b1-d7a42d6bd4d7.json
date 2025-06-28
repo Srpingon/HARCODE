@@ -6054,5 +6054,11 @@
     },
     "done": true
   },
+  "hangglider:recipes/tools/hang_glider": {
+    "criteria": {
+      "has_glider_framework": "2025-06-28 19:01:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

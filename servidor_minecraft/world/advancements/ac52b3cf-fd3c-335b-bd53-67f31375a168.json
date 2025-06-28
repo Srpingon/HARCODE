@@ -2785,6 +2785,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/combat/wool_helmet": {
+    "criteria": {
+      "has_wool": "2025-06-28 19:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-28 17:08:31 +0000"
@@ -2875,6 +2881,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-06-28 19:03:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-28 17:08:32 +0000"
@@ -2935,6 +2947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-06-28 19:03:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_flanged_mace": {
     "criteria": {
       "has_gold_ingot": "2025-06-28 18:44:34 +0000"
@@ -2950,6 +2968,18 @@
   "spartanweaponry:recipes/golden_heavy_crossbow": {
     "criteria": {
       "has_gold_ingot": "2025-06-28 18:44:34 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_leggings": {
+    "criteria": {
+      "has_wool": "2025-06-28 19:03:49 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_chestplate": {
+    "criteria": {
+      "has_wool": "2025-06-28 19:03:49 +0000"
     },
     "done": true
   },
@@ -3010,6 +3040,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-06-28 18:23:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-28 19:03:49 +0000"
     },
     "done": true
   },
@@ -3085,6 +3121,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-06-28 19:03:49 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/creeper_smithing": {
     "criteria": {
       "has_creeper": "2025-06-28 17:51:08 +0000"
@@ -3097,9 +3139,21 @@
     },
     "done": true
   },
+  "spartanweaponry:flanged_mace": {
+    "criteria": {
+      "has_flanged_mace": "2025-06-28 18:50:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-06-28 18:23:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-06-28 19:03:49 +0000"
     },
     "done": true
   },
@@ -3118,6 +3172,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-28 17:08:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis_smithing": {
+    "criteria": {
+      "has_lapis": "2025-06-28 19:09:41 +0000"
     },
     "done": true
   },
@@ -3166,6 +3226,18 @@
   "toughasnails:recipes/tools/empty_gold_canteen": {
     "criteria": {
       "has_gold_ingot": "2025-06-28 18:44:34 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_boots": {
+    "criteria": {
+      "has_wool": "2025-06-28 19:03:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-06-28 19:03:49 +0000"
     },
     "done": true
   },
