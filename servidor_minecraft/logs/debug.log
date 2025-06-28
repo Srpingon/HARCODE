@@ -7906,3 +7906,637 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [28Jun2025 22:11:05.407] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
 [28Jun2025 22:11:05.407] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
 [28Jun2025 22:11:05.407] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:03.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 22:12:03.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 22:12:41.050] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:41.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:12:41.051] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:12:41.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:41.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:41.052] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:41.052] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:41.052] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:41.052] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:41.052] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:41.052] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:41.053] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:42.255] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:42.255] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:12:42.255] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:12:42.255] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:42.255] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:44.648] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:44.649] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:12:44.649] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:12:44.649] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:44.649] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:44.650] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:44.651] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:44.651] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:44.651] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:45.983] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:45.984] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:12:45.984] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:12:45.984] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:47.129] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:47.129] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:12:47.129] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:12:47.129] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:48.597] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:48.598] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:12:48.598] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:12:48.599] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:12:48.599] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:16.978] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:16.978] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:14:16.978] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:14:16.978] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:16.978] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:16.979] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:16.979] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:16.980] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:16.980] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:16.980] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:16.981] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:16.981] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:16.981] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:16.981] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:20.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:20.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:14:20.048] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:14:20.048] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:20.048] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:20.048] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:20.049] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:20.049] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:20.049] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:20.049] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:20.049] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:20.049] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:21.399] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:21.399] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:14:21.399] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:14:21.399] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:21.399] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:21.399] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:22.764] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:22.764] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:14:22.764] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:14:22.764] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:22.764] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:22.765] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:22.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:22.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:22.767] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:22.767] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:24.580] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:24.581] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:14:24.581] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:14:24.581] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:24.581] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:24.582] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:24.582] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:26.046] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:26.046] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:14:26.046] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:14:26.046] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:26.046] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:26.248] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:27.676] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:28.031] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:28.756] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:28.757] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:14:28.757] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:14:28.757] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:28.757] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:28.758] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:28.898] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:30.170] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:30.172] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:14:30.172] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:14:32.898] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:32.899] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:14:32.899] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:14:35.149] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:35.150] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:14:35.150] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:14:35.197] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:37.069] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:14:37.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover fell from a high place
+[28Jun2025 22:14:37.077] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_28.06.2025-22.14.37.dat
+[28Jun2025 22:14:37.526] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:37.527] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:14:37.527] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:14:37.527] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:38.322] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:14:38.322] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Jun2025 22:14:38.323] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[28Jun2025 22:14:44.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xD
+[28Jun2025 22:14:45.374] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:45.375] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:14:45.375] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:14:45.375] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:47.597] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:47.598] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:14:47.598] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:14:47.598] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:48.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> BO PREGUNTES
+[28Jun2025 22:14:51.899] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:51.900] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:14:51.900] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:14:51.900] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:54.230] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:14:54.230] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:14:54.230] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:15:22.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:26.916] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:33.267] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:34.565] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:35.716] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:38.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:40.115] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:41.216] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:41.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:42.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:44.015] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:45.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:45.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:15:45.128] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:15:45.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:45.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:45.129] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:45.129] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:45.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:45.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:45.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:45.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:45.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:45.131] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:45.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:46.267] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:47.923] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:47.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:15:47.924] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:15:47.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:47.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:47.925] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:49.500] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:49.500] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:15:49.500] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:15:49.500] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:49.501] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:49.501] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:49.502] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:49.502] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:49.502] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:50.848] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:50.848] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:15:50.848] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:15:50.848] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:51.746] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:51.747] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:15:51.747] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:15:51.747] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:51.748] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:51.897] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:52.847] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:52.847] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:15:52.847] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:15:52.847] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:52.848] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:54.828] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:54.829] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:15:54.829] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:15:54.829] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:54.829] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:54.830] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:54.830] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:56.046] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:56.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:15:56.047] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:15:56.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:56.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:57.522] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:57.522] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:15:57.522] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:15:58.450] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:58.450] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:15:58.450] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:15:58.450] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:58.500] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:59.996] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:15:59.997] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:15:59.997] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:16:01.903] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:16:02.447] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:16:08.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ESO ES POR MATAAR A MI HIPO CAMPUS
+[28Jun2025 22:16:18.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xd
+[28Jun2025 22:17:03.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 22:17:03.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 22:17:07.540] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:17:08.187] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:17:09.187] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:17:10.187] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:17:10.302] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:17:10.801] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:17:11.188] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:17:11.562] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:17:12.002] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:17:12.451] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:17:13.003] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:17:13.052] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:17:13.405] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:17:59.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> tienes diamantes?
+[28Jun2025 22:18:07.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> nel xd
+[28Jun2025 22:18:15.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> chale
+[28Jun2025 22:18:21.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> pa que si no puedo usarlos xd
+[28Jun2025 22:18:30.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> solo pregunto
+[28Jun2025 22:18:50.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> QUIERO HACER UN TRUEQUE
+[28Jun2025 22:19:08.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> :c
+[28Jun2025 22:19:52.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> te ofresco polvito magico infinito
+[28Jun2025 22:20:07.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> me austasteeeeee
+[28Jun2025 22:20:17.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> crei que mi hora del grotesco llego xd
+[28Jun2025 22:20:17.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> quien mas seria
+[28Jun2025 22:20:24.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> xd
+[28Jun2025 22:20:24.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> el grotesco xd
+[28Jun2025 22:20:29.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> :">
+[28Jun2025 22:20:34.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> no soy byron
+[28Jun2025 22:20:40.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xd
+[28Jun2025 22:21:18.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> carajo otra ves a la mina
+[28Jun2025 22:21:34.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xd
+[28Jun2025 22:22:03.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 22:22:03.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 22:22:28.153] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:28.153] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:22:28.153] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:22:28.153] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:28.153] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:28.154] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:28.154] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:28.154] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:28.154] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:28.154] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:28.154] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:28.155] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:28.155] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:28.251] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:30.050] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:30.050] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:22:30.050] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:22:30.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:30.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:30.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:30.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:30.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:31.129] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:31.129] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:22:31.129] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:22:31.129] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:31.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:31.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:31.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:33.249] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:33.250] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:22:33.250] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:22:33.250] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:33.250] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:33.251] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:33.251] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:33.251] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:33.251] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:33.252] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:33.252] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:33.252] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:33.329] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:35.148] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:35.148] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:22:35.148] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:22:35.148] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:35.148] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:35.148] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:35.149] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:36.780] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:36.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:22:36.781] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:22:36.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:36.782] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:36.782] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:36.783] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:36.926] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:38.033] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:38.034] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:22:38.034] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:22:38.034] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:38.034] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:38.035] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:38.035] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:38.173] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:40.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> como se bloque los cofre?
+[28Jun2025 22:22:42.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:42.052] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:22:42.052] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:22:42.052] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:42.052] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:42.298] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:22:47.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> no se xd
+[28Jun2025 22:22:58.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> by se los hizo y me dejo alone
+[28Jun2025 22:23:04.447] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:04.447] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:23:04.447] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:23:04.447] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:04.447] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:04.447] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:04.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SOSPECHO QUE ALGUEIN ME ROBA
+[28Jun2025 22:23:06.172] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:06.172] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:23:06.173] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:23:06.173] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:06.254] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:06.351] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:13.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xD por eso by lo hizo
+[28Jun2025 22:23:14.652] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:14.652] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:23:14.652] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:23:14.652] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:14.652] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:17.874] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:19.028] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:19.029] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:23:19.029] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:23:19.029] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:19.030] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:20.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:20.625] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:23:20.625] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:23:20.625] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:21.347] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:23:23.774] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:23.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:23:23.775] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:23:23.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:25.823] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:25.824] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:23:25.824] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:23:25.824] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:25.825] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:26.747] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:26.748] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:23:26.748] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:23:26.748] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:27.470] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:27.471] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:23:27.471] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:23:27.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> LE PREGUNTAARE
+[28Jun2025 22:23:28.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:28.923] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:23:28.923] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:23:28.923] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:28.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:23:43.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> es un comando creo, y nosotros no tenemos xd
+[28Jun2025 22:24:08.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SI ES ASI ME VERE FORZADO A QUITARLE ADMIN
+[28Jun2025 22:24:15.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xD
+[28Jun2025 22:24:28.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> O NUCLEAR EL SERVER
+[28Jun2025 22:24:29.174] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:29.174] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:24:29.174] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:24:29.174] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:29.174] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:29.175] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:29.175] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:29.176] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:29.176] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:29.176] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:29.176] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:29.177] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:30.516] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:30.516] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:24:30.517] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:24:30.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:30.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:31.332] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:31.333] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:24:31.333] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:24:31.333] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:32.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:32.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:24:32.761] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:24:32.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:32.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:32.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:32.762] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:33.981] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:33.982] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:24:33.982] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:24:33.982] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:36.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xx
+[28Jun2025 22:24:39.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xd
+[28Jun2025 22:24:40.164] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:40.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:24:40.165] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:24:40.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:40.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:40.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:40.167] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:40.167] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:41.824] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:41.825] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:24:41.825] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:24:42.968] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:42.969] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:24:42.969] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:24:49.779] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:49.780] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:24:49.780] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:24:49.780] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:49.780] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:50.401] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:50.401] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:24:50.401] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:24:50.401] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:53.621] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:53.622] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:24:53.622] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:24:53.622] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:53.729] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:56.127] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:56.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:24:56.128] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:24:56.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:56.129] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:56.129] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:24:58.516] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:25:48.273] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:48.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:25:48.274] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:25:48.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:48.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:48.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:48.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:48.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:48.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:48.275] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:48.275] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:49.371] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:49.371] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:25:49.371] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:25:49.371] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:49.371] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:49.422] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:49.495] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:25:50.127] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:50.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:25:50.128] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:25:50.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:50.129] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:50.489] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:25:50.928] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:50.928] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:25:50.928] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:25:50.928] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:50.928] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:50.929] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:50.929] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:51.362] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:51.511] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:51.722] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:51.723] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:25:51.723] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:25:51.853] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:52.449] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:52.451] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:25:52.451] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:25:52.451] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:53.390] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:25:53.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:53.811] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:53.974] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:53.975] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:25:53.975] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:25:53.975] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:53.976] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:53.977] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:54.387] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:25:54.411] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:55.301] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:55.672] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:56.031] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:56.089] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:25:57.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:57.092] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:25:57.511] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:57.716] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:57.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:25:57.718] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:25:57.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:57.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:57.719] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:58.591] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:25:59.000] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:59.000] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:25:59.000] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:25:59.001] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:59.001] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:59.591] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:25:59.819] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:25:59.820] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:25:59.820] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:26:00.161] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:00.311] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:00.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:00.864] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:00.878] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:00.878] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:26:00.878] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:26:00.878] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:01.020] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:01.521] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:02.198] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:02.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:26:02.199] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:26:02.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:02.489] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:26:02.813] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:03.003] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:03.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:03.417] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:26:03.417] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:26:04.832] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:04.833] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:26:04.833] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:26:05.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:05.777] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:26:05.777] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:26:25.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> cheeeeeeeeeeeeeee
+[28Jun2025 22:26:32.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> QUE WAASO?
+[28Jun2025 22:26:34.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> tengo que ir a comprar lejitos xd
+[28Jun2025 22:26:43.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> A
+[28Jun2025 22:26:47.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> voa apagar el server aviso cuando vuelva
+[28Jun2025 22:26:49.625] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:49.625] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:26:49.626] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:26:49.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:49.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:49.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:49.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:49.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:50.314] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:50.315] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:26:50.315] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:26:51.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:51.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:26:51.264] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:26:51.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:51.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:51.265] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:51.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:51.415] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:52.831] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:52.833] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:26:52.833] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:26:52.833] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:54.176] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:54.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:54.622] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:54.919] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:55.164] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:55.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:55.426] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:55.914] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:56.121] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:56.228] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:56.314] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:57.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:57.417] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Jun2025 22:26:57.417] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 11.8 * Magnitude: 1.0 = Result damage: 11.8 - Overridden sweep damage ratio to 0.91525424
+[28Jun2025 22:26:57.417] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:57.418] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:57.418] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:57.419] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:26:57.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ok
+[28Jun2025 22:26:59.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[28Jun2025 22:26:59.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[28Jun2025 22:27:03.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 22:27:03.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 22:27:30.299] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:27:30.442] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[28Jun2025 22:27:30.461] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:27:31.307] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Jun2025 22:27:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Jun2025 22:27:32.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Jun2025 22:27:32.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Jun2025 22:27:32.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Server closed
+[28Jun2025 22:27:32.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[28Jun2025 22:27:32.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Jun2025 22:27:32.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Jun2025 22:27:32.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[28Jun2025 22:27:32.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Jun2025 22:27:32.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Jun2025 22:27:32.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 22:27:32.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 22:27:32.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Jun2025 22:27:32.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[28Jun2025 22:27:32.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Jun2025 22:27:32.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Jun2025 22:27:32.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Jun2025 22:27:32.799] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[28Jun2025 22:27:32.799] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
