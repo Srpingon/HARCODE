@@ -285,3 +285,5 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [28Jun2025 21:19:36.248] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [28Jun2025 21:20:24.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.59.47.31:40797] logged in with entity id 43 at (-462.1520715896417, 37.0, -317.8804180179371)
 [28Jun2025 21:20:24.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[28Jun2025 21:33:26.660] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[28Jun2025 21:35:20.344] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
