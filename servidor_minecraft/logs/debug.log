@@ -6889,3 +6889,14 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [28Jun2025 17:06:54.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported Anzu_ara to -451.590000, 47.000000, -294.560000]
 [28Jun2025 17:07:14.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jun2025 17:07:14.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 17:08:32.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Clash of the Titans]
+[28Jun2025 17:09:27.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Modified block data of -450, 47, -292]
+[28Jun2025 17:09:42.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Modified block data of -449, 47, -292]
+[28Jun2025 17:09:56.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Modified block data of -448, 47, -293]
+[28Jun2025 17:10:09.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Modified block data of -448, 47, -294]
+[28Jun2025 17:12:14.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 17:12:14.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jun2025 17:12:22.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Modified block data of -453, 45, -293]
+[28Jun2025 17:13:01.537] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[28Jun2025 17:17:14.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jun2025 17:17:14.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
