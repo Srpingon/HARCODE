@@ -284,3 +284,22 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [28Jun2025 16:37:14.667] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [28Jun2025 16:41:27.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:57961] logged in with entity id 43 at (-458.78718533810934, 37.0, -316.8794255990347)
 [28Jun2025 16:41:28.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[28Jun2025 16:58:30.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Modified block data of -458, 38, -318]
+[28Jun2025 17:00:25.008] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.59.47.31:60347] logged in with entity id 2769 at (-2166.255899207099, 23.0, 1328.699999988079)
+[28Jun2025 17:00:25.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[28Jun2025 17:00:54.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[28Jun2025 17:00:54.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[28Jun2025 17:00:54.937] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jun2025 17:01:04.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[28Jun2025 17:02:26.282] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@664f6360[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.59.47.31:56115) lost connection: Timed out
+[28Jun2025 17:03:10.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Modified block data of -470, 38, -319]
+[28Jun2025 17:03:50.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Modified block data of -458, 38, -317]
+[28Jun2025 17:04:44.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Modified block data of -469, 37, -320]
+[28Jun2025 17:04:49.380] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7dba24bd[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.59.47.31:34481) lost connection: Disconnected
+[28Jun2025 17:04:57.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Modified block data of -470, 37, -320]
+[28Jun2025 17:05:22.481] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3556e41d[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.59.47.31:46927) lost connection: Disconnected
+[28Jun2025 17:05:30.393] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.59.47.31:42507] logged in with entity id 3832 at (-2166.255899207099, 23.0, 1328.699999988079)
+[28Jun2025 17:05:30.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[28Jun2025 17:06:25.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Modified block data of -453, 45, -293]
+[28Jun2025 17:06:42.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Modified block data of -451, 47, -292]
+[28Jun2025 17:06:54.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported Anzu_ara to -451.590000, 47.000000, -294.560000]
