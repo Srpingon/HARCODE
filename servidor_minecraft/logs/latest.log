@@ -310,3 +310,5 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [28Jun2025 17:10:09.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Modified block data of -448, 47, -294]
 [28Jun2025 17:12:22.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Modified block data of -453, 45, -293]
 [28Jun2025 17:13:01.537] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[28Jun2025 17:18:46.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Packing Up!]
+[28Jun2025 17:18:51.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Bigger is better]
