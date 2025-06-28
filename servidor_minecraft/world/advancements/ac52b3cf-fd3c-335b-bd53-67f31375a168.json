@@ -2629,6 +2629,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-06-28 18:23:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-28 18:19:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-06-28 17:10:48 +0000"
@@ -2671,6 +2683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-06-28 18:23:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-06-28 17:10:46 +0000"
@@ -2680,6 +2698,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-28 17:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-06-28 18:23:38 +0000"
     },
     "done": true
   },
@@ -2695,6 +2719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-28 18:19:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-06-28 17:08:32 +0000"
@@ -2704,6 +2734,12 @@
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2025-06-28 17:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-28 18:19:56 +0000"
     },
     "done": true
   },
@@ -2734,6 +2770,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-06-28 17:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-06-28 18:23:38 +0000"
     },
     "done": true
   },
@@ -2782,6 +2824,12 @@
   "packedup:recipes/misc/iron_from_basic": {
     "criteria": {
       "recipe_condition": "2025-06-28 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-06-28 18:23:38 +0000"
     },
     "done": true
   },
@@ -2839,6 +2887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-06-28 18:23:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-06-28 17:08:32 +0000"
@@ -2863,9 +2917,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-06-28 18:23:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-28 17:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-28 18:23:38 +0000"
     },
     "done": true
   },
@@ -2887,6 +2953,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/tools/thermometer": {
+    "criteria": {
+      "has_redstone": "2025-06-28 18:23:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-28 17:10:48 +0000"
@@ -2896,6 +2968,12 @@
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2025-06-28 17:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-06-28 18:23:38 +0000"
     },
     "done": true
   },
