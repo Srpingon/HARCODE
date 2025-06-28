@@ -284,3 +284,20 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [28Jun2025 23:33:15.859] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.59.47.31:35125] logged in with entity id 43 at (-463.40829650764147, 36.0, -322.14611882206776)
 [28Jun2025 23:33:15.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
 [28Jun2025 23:33:18.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2179ms or 43 ticks behind
+[28Jun2025 23:42:31.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[28Jun2025 23:42:31.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[28Jun2025 23:42:31.608] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jun2025 23:43:08.603] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.59.47.31:56135] logged in with entity id 1311 at (-467.0895436477289, 37.0, -318.6829105764904)
+[28Jun2025 23:43:08.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[28Jun2025 23:43:38.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[28Jun2025 23:43:38.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[28Jun2025 23:45:45.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.59.47.31:43249] logged in with entity id 1486 at (-467.0895436477289, 37.0, -318.6829105764904)
+[28Jun2025 23:45:45.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[28Jun2025 23:46:48.286] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[28Jun2025 23:46:48.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[28Jun2025 23:49:46.507] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.201.115.94:57611] logged in with entity id 1705 at (-270.69999998807907, -8.0, -142.8351262937382)
+[28Jun2025 23:49:46.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[28Jun2025 23:52:03.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was blown up by Troll
+[28Jun2025 23:52:03.392] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_28.06.2025-23.52.03.dat
+[28Jun2025 23:52:04.534] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[28Jun2025 23:52:04.535] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
