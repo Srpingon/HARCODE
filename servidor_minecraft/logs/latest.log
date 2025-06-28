@@ -312,3 +312,7 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [28Jun2025 17:13:01.537] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
 [28Jun2025 17:18:46.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Packing Up!]
 [28Jun2025 17:18:51.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Bigger is better]
+[28Jun2025 17:28:22.095] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Anzu_ara
+[28Jun2025 17:30:49.031] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[28Jun2025 17:33:37.682] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[28Jun2025 17:34:05.258] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
