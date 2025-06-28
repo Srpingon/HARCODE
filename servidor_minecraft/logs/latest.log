@@ -287,3 +287,4 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [28Jun2025 21:20:24.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
 [28Jun2025 21:33:26.660] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
 [28Jun2025 21:35:20.344] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[28Jun2025 21:42:40.682] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
