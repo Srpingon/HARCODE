@@ -2701,9 +2701,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-06-28 17:46:54 +0000"
+    },
+    "done": true
+  },
   "packedup:iron_or_copper_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-06-28 17:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-06-28 17:46:54 +0000"
     },
     "done": true
   },
@@ -2719,6 +2731,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-28 17:45:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-06-28 17:46:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-06-28 17:08:31 +0000"
@@ -2728,6 +2752,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-28 17:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-06-28 17:46:54 +0000"
     },
     "done": true
   },
@@ -2752,6 +2782,12 @@
   "packedup:recipes/misc/iron_from_basic": {
     "criteria": {
       "recipe_condition": "2025-06-28 17:18:46 +0000"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/hang_glider": {
+    "criteria": {
+      "has_glider_framework": "2025-06-28 17:37:47 +0000"
     },
     "done": true
   },
@@ -2788,6 +2824,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-06-28 17:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-28 17:46:54 +0000"
     },
     "done": true
   },
