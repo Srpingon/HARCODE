@@ -296,3 +296,19 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [29Jun2025 02:54:56.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.59.47.31:52311] logged in with entity id 43 at (-463.47624280260527, 36.0, -322.31295069886164)
 [29Jun2025 02:54:56.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
 [29Jun2025 03:03:48.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[29Jun2025 03:03:58.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> xaero-waypoint:dragon abajo:D:-648:62:566:11:false:0:Internal-overworld-waypoints
+[29Jun2025 03:05:40.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was killed by magic
+[29Jun2025 03:05:40.920] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Anzu_ara with unique ID travelersbackpack.lapis_29.06.2025-03.05.40.dat
+[29Jun2025 03:05:42.198] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Jun2025 03:05:42.199] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[29Jun2025 03:05:43.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XDDDDDDDDDDDD
+[29Jun2025 03:08:20.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[29Jun2025 03:12:02.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -647.500000, 62.500000, 566.500000]
+[29Jun2025 03:12:07.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to Anzu_ara]
+[29Jun2025 03:12:11.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> xaero-waypoint:dragon abajo:D:-648:62:566:11:false:0:Internal-overworld-waypoints
+[29Jun2025 03:13:18.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[29Jun2025 03:13:33.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[29Jun2025 03:13:35.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[29Jun2025 03:13:35.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[29Jun2025 03:13:43.200] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:47319] logged in with entity id 3147 at (-451.54145609499415, 47.0, -295.88168631104764)
+[29Jun2025 03:13:43.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
