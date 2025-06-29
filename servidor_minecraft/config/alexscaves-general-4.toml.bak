@@ -1,4 +1,11 @@
-vanilla-changes = {}
+
+[mob-spawning]
+	#Cave Creatures (All dinosaurs, raycats, etc) spawn at this frequency. Their cap is calculated by multiplying this number with the default mob cap for surface animals.
+	#Range: 0.0 ~ 10.0
+	cave_creature_spawn_count_modifier = 1.75
+	#The percent chance that drowned have to spawn wearing diving gear in the Abyssal Chasm. 0 = no diving gear wearing drowned will spawn
+	#Range: 0.0 ~ 1.0
+	drowned_diving_gear_spawn_chance = 0.2
 
 [generation]
 	#Average radius (in blocks) of an Alex's Caves cave biome.
@@ -15,14 +22,6 @@ vanilla-changes = {}
 	cave_biome_spacing_randomness = 0.45
 	#Whether to warn users when a server starts if an incompatible generation mod is detected.
 	warn_generation_incompatibility = true
-
-[mob-spawning]
-	#Cave Creatures (All dinosaurs, raycats, etc) spawn at this frequency. Their cap is calculated by multiplying this number with the default mob cap for surface animals.
-	#Range: 0.0 ~ 10.0
-	cave_creature_spawn_count_modifier = 1.75
-	#The percent chance that drowned have to spawn wearing diving gear in the Abyssal Chasm. 0 = no diving gear wearing drowned will spawn
-	#Range: 0.0 ~ 1.0
-	drowned_diving_gear_spawn_chance = 0.2
 
 [mob-behavior]
 	#How many cpu cores big mobs(tremorzilla, atlatitan, grottoceratops etc) should utilize when pathing. Bigger number = less impact on TPS
@@ -85,4 +84,35 @@ vanilla-changes = {}
 [potion-behavior]
 	#Whether the Sugar Rush changes the tick rate of the game in the area of affected players.
 	sugar_rush_slows_time = true
+
+[vanilla-changes]
+	#percent chance of bastion having a cave tablet for magnetic caves in its loot table:
+	#Range: 0.0 ~ 1.0
+	magnetic_tablet_loot_chance = 0.45
+	#percent chance of suspicious sand having a cave tablet for primordial caves in its loot table:
+	#Range: 0.0 ~ 1.0
+	primordial_tablet_loot_chance = 0.15
+	#percent chance of jungle temple having a cave tablet for toxic caves in its loot table:
+	#Range: 0.0 ~ 1.0
+	toxic_tablet_loot_chance = 0.5
+	#percent chance of underwater ruins having a cave tablet for abyssal chasm in its loot table:
+	#Range: 0.0 ~ 1.0
+	abyssal_tablet_loot_chance = 0.4
+	#percent chance of mansion having a cave tablet for forlorn hollows in its loot table:
+	#Range: 0.0 ~ 1.0
+	forlorn_tablet_loot_chance = 0.75
+	#percent chance of witch hut chest having a cave tablet for candy cavity in its loot table:
+	#Range: 0.0 ~ 1.0
+	candy_cavity_loot_chance = 0.9
+	#percent chance of abandoned mineshaft chests having a map to a nearby underground mineshaft in their loot table:
+	#Range: 0.0 ~ 1.0
+	cabin_map_loot_chance = 0.15
+	#Whether the Cartographer Villagers can sell maps to Underground Cabins.
+	cartographers_sell_cabin_maps = true
+	#Whether the Wandering Traders can sell maps to Underground Cabins.
+	wandering_traders_sell_cabin_maps = true
+	#Whether a loot chest is added to vanilla's witch huts. This is included to provide another place to find candy cavity biome cave tablets.
+	loot_chest_in_witch_huts = true
+	#Whether the Enchantments added by AC appear in vanilla loot tables.
+	enchantments_in_loot = false
 
