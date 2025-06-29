@@ -29,6 +29,7 @@
       "minecraft:lukewarm_ocean": "2025-06-28 01:39:51 +0000",
       "minecraft:cold_ocean": "2025-06-29 03:21:54 +0000",
       "minecraft:forest": "2025-06-22 01:57:36 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-29 03:37:34 +0000",
       "minecraft:windswept_forest": "2025-06-16 00:09:20 +0000",
       "minecraft:ocean": "2025-06-22 02:24:30 +0000",
       "minecraft:jungle": "2025-06-28 02:08:27 +0000",
@@ -726,7 +727,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-29 03:48:16 +0000",
       "minecraft:skeleton": "2025-06-25 23:08:14 +0000",
+      "minecraft:spider": "2025-06-29 03:33:21 +0000",
       "minecraft:zombie": "2025-06-16 00:14:31 +0000"
     },
     "done": false
@@ -865,6 +868,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_pirate_ship": "2025-06-29 03:47:42 +0000",
       "entered_large_dungeon": "2025-06-22 02:19:55 +0000"
     },
     "done": false
@@ -1262,6 +1266,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-06-29 02:25:03 +0000",
+      "cooked_mutton": "2025-06-29 03:38:36 +0000",
       "beef": "2025-06-29 00:28:11 +0000",
       "apple": "2025-06-29 00:28:08 +0000",
       "potato": "2025-06-28 01:29:35 +0000",
@@ -3557,6 +3562,36 @@
     },
     "done": true
   },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-06-29 03:40:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-29 03:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-29 03:46:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2025-06-29 03:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-29 03:46:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-06-29 03:25:15 +0000"
@@ -3566,6 +3601,12 @@
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-06-29 03:18:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-29 03:42:30 +0000"
     },
     "done": true
   },
@@ -3593,6 +3634,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2025-06-29 03:42:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-06-29 03:18:14 +0000"
@@ -3602,6 +3649,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-06-29 03:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-29 03:46:09 +0000"
     },
     "done": true
   },
@@ -3617,9 +3670,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-29 03:45:31 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-06-29 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-29 03:46:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-29 03:25:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-06-29 03:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-29 03:45:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-06-29 03:42:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2025-06-29 03:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-29 03:45:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2025-06-29 03:42:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-29 03:48:54 +0000"
     },
     "done": true
   },
@@ -3632,6 +3745,24 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-06-29 03:25:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-29 03:46:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2025-06-29 03:47:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-06-29 03:42:32 +0000"
     },
     "done": true
   },

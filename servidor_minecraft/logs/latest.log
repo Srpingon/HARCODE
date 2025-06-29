@@ -329,3 +329,47 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [29Jun2025 03:33:14.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-888, y=5, z=650}
 [29Jun2025 03:33:21.198] [Server thread/INFO] [Scaling Health/]: Blight Spider was killed by Anzu_ara
 [29Jun2025 03:34:02.982] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[29Jun2025 03:35:00.134] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[29Jun2025 03:36:49.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ZZZZZZZZZZZZZZZZ
+[29Jun2025 03:37:07.710] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-868, y=23, z=358} but found not block entity block Block{minecraft:water}[level=8] at location
+[29Jun2025 03:37:07.710] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-868, y=23, z=358}
+[29Jun2025 03:37:26.700] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-930, y=5, z=665} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Jun2025 03:37:26.701] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-930, y=5, z=665}
+[29Jun2025 03:39:18.069] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1128, y=17, z=266} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Jun2025 03:39:18.070] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1128, y=17, z=266}
+[29Jun2025 03:39:18.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1128, y=17, z=281} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Jun2025 03:39:18.079] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1128, y=17, z=281}
+[29Jun2025 03:39:18.156] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1128, y=17, z=300} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Jun2025 03:39:18.156] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1128, y=17, z=300}
+[29Jun2025 03:39:20.808] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[29Jun2025 03:39:27.110] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1162, y=17, z=296} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Jun2025 03:39:27.110] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1162, y=17, z=296}
+[29Jun2025 03:39:29.067] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1174, y=17, z=288} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Jun2025 03:39:29.068] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1174, y=17, z=288}
+[29Jun2025 03:39:32.264] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/11955, l='ServerLevel[world]', x=-830.45, y=54.67, z=104.09]
+[29Jun2025 03:39:32.265] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/11956, l='ServerLevel[world]', x=-830.45, y=54.67, z=104.09]
+[29Jun2025 03:39:32.265] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/11957, l='ServerLevel[world]', x=-830.45, y=54.67, z=104.09]
+[29Jun2025 03:39:32.265] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/11958, l='ServerLevel[world]', x=-830.45, y=54.67, z=104.09]
+[29Jun2025 03:39:32.266] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/11959, l='ServerLevel[world]', x=-830.45, y=54.67, z=104.09]
+[29Jun2025 03:39:35.367] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1219, y=17, z=304} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Jun2025 03:39:35.367] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1219, y=17, z=304}
+[29Jun2025 03:40:05.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Jaws]
+[29Jun2025 03:40:05.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Jaws]
+[29Jun2025 03:41:07.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Sea Serpent
+[29Jun2025 03:41:09.006] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Jun2025 03:41:09.007] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[29Jun2025 03:41:14.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -866.500000, 62.500000, 166.500000]
+[29Jun2025 03:42:30.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Sea? Not a Problem]
+[29Jun2025 03:47:42.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Ahoy Captain]
+[29Jun2025 03:47:42.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Ahoy Captain]
+[29Jun2025 03:49:52.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Vex
+[29Jun2025 03:49:52.782] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Anzu_ara with unique ID travelersbackpack.bee_29.06.2025-03.49.52.dat
+[29Jun2025 03:49:54.135] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Jun2025 03:49:54.136] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[29Jun2025 03:50:14.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was pummeled by C0LIGAMES
+[29Jun2025 03:50:15.949] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Jun2025 03:50:15.950] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[29Jun2025 03:51:05.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was shot by Pillager
+[29Jun2025 03:51:17.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[29Jun2025 03:51:17.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[29Jun2025 03:51:17.283] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
