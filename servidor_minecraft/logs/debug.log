@@ -8403,3 +8403,14 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [29Jun2025 03:54:33.928] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [29Jun2025 03:54:35.930] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [29Jun2025 03:54:37.929] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 03:54:39.933] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 03:54:41.931] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 03:54:43.933] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jun2025 03:54:44.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[29Jun2025 03:54:44.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[29Jun2025 03:54:48.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 03:54:48.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 03:59:48.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 03:59:48.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 04:04:48.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 04:04:48.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

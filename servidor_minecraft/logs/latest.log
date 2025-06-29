@@ -373,3 +373,5 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [29Jun2025 03:51:17.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
 [29Jun2025 03:51:17.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
 [29Jun2025 03:51:17.283] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jun2025 03:54:44.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[29Jun2025 03:54:44.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
