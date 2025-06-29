@@ -1,4 +1,4 @@
-quarterstaff = {}
+traits = {}
 
 [dagger]
 	#Disables all recipes for all Daggers.
@@ -306,3 +306,67 @@ quarterstaff = {}
 	#Range: 0.1 ~ 10.0
 	damage_multiplier = 1.5
 
+[quarterstaff]
+	#Disables all recipes for all Quarterstaves.
+	disable = false
+	#Attack speed of Quarterstaves.
+	#Range: 0.0 ~ 4.0
+	speed = 1.399999976158142
+	#Base Damage of Quarterstaves.
+	#Range: 0.1 ~ 100.0
+	base_damage = 3.0
+	#Damage Multiplier for Quarterstaves.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.5
+
+[scythes]
+	#Disables all recipes for all Scythes.
+	disable = false
+	#Attack speed of Scythes.
+	#Range: 0.0 ~ 4.0
+	speed = 1.0
+	#Base Damage of Scythes.
+	#Range: 0.1 ~ 100.0
+	base_damage = 5.0
+	#Damage Multiplier for Scythes.
+	#Range: 0.1 ~ 10.0
+	damage_multiplier = 1.0
+
+[copper]
+	#Base Damage for copper weapons
+	#Range: 0.1 ~ 100.0
+	base_damage = 1.5
+	#Durability for copper weapons
+	#Range: 1 ~ 100000
+	durability = 200
+	#Set to true to disable copper weapons
+	disable = false
+
+[tin]
+	#Base Damage for tin weapons
+	#Range: 0.1 ~ 100.0
+	base_damage = 1.75
+	#Durability for tin weapons
+	#Range: 1 ~ 100000
+	durability = 180
+	#Set to true to disable tin weapons
+	disable = false
+
+[bronze]
+	#Base Damage for bronze weapons
+	#Range: 0.1 ~ 100.0
+	base_damage = 2.0
+	#Durability for bronze weapons
+	#Range: 1 ~ 100000
+	durability = 320
+	#Set to true to disable bronze weapons
+	disable = false
+
+[steel]
+	#Base Damage for steel weapons
+	#Range: 0.1 ~ 100.0
+	base_damage = 2.5
+	#Durability for steel weapons
+	#Range: 1 ~ 100000
+	durability = 480
+	#Set to true to disable

@@ -1260,6 +1260,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-06-29 02:25:03 +0000",
       "beef": "2025-06-29 00:28:11 +0000",
       "apple": "2025-06-29 00:28:08 +0000",
       "potato": "2025-06-28 01:29:35 +0000",
@@ -3513,6 +3514,12 @@
     },
     "done": true
   },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "has_katana": "2025-06-29 01:38:21 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/bookshelf_smithing": {
     "criteria": {
       "has_bookshelf": "2025-06-29 01:54:09 +0000"
@@ -3525,9 +3532,9 @@
     },
     "done": true
   },
-  "spartanweaponry:katana": {
+  "spartanweaponry:saber": {
     "criteria": {
-      "has_katana": "2025-06-29 01:38:21 +0000"
+      "has_saber": "2025-06-29 02:28:22 +0000"
     },
     "done": true
   },
