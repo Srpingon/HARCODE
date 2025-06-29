@@ -3337,5 +3337,11 @@
     },
     "done": true
   },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2025-06-29 00:16:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
