@@ -298,3 +298,16 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [29Jun2025 19:50:04.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara drowned
 [29Jun2025 19:50:05.688] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [29Jun2025 19:50:05.689] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[29Jun2025 20:00:01.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[29Jun2025 20:00:01.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[29Jun2025 20:00:51.163] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@18025ca3[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.59.47.31:35595) lost connection: Disconnected
+[29Jun2025 20:03:12.879] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.59.47.31:47675] logged in with entity id 9328 at (-692.5832974124302, -14.0, 597.3679529713618)
+[29Jun2025 20:03:12.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[29Jun2025 20:15:55.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was frozen by Ice Dragon
+[29Jun2025 20:15:55.874] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Anzu_ara with unique ID travelersbackpack.bee_29.06.2025-20.15.55.dat
+[29Jun2025 20:15:59.606] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Jun2025 20:15:59.606] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[29Jun2025 20:18:13.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was frozen by Ice Dragon
+[29Jun2025 20:18:23.447] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Jun2025 20:18:23.448] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[29Jun2025 20:24:46.671] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Anzu_ara
