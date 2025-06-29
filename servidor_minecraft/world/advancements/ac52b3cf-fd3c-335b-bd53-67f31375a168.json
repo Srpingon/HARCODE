@@ -3513,6 +3513,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bookshelf_smithing": {
+    "criteria": {
+      "has_bookshelf": "2025-06-29 01:54:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone_smithing": {
+    "criteria": {
+      "has_sandstone": "2025-06-29 01:56:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:katana": {
     "criteria": {
       "has_katana": "2025-06-29 01:38:21 +0000"
