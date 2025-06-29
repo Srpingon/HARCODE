@@ -283,3 +283,18 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [29Jun2025 19:16:57.679] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.59.47.31:50121] logged in with entity id 43 at (-886.3000000119209, 67.0, 179.4457340336766)
 [29Jun2025 19:16:57.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
 [29Jun2025 19:17:00.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3043ms or 60 ticks behind
+[29Jun2025 19:46:16.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was frozen by Ice Dragon
+[29Jun2025 19:46:16.018] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Anzu_ara with unique ID travelersbackpack.bee_29.06.2025-19.46.16.dat
+[29Jun2025 19:46:17.518] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Jun2025 19:46:17.518] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[29Jun2025 19:48:17.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was pricked to death
+[29Jun2025 19:48:18.945] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Jun2025 19:48:18.945] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[29Jun2025 19:49:15.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[29Jun2025 19:49:15.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[29Jun2025 19:49:15.758] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jun2025 19:49:30.186] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.59.47.31:50055] logged in with entity id 7047 at (-652.3000000119209, 59.0, 570.6999999880791)
+[29Jun2025 19:49:30.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[29Jun2025 19:50:04.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara drowned
+[29Jun2025 19:50:05.688] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[29Jun2025 19:50:05.689] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
