@@ -4163,5 +4163,23 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sponge_smithing": {
+    "criteria": {
+      "has_sponge": "2025-06-29 21:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-29 21:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-29 21:35:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
