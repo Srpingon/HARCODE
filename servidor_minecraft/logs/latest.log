@@ -290,3 +290,11 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [29Jun2025 02:21:44.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
 [29Jun2025 02:28:22.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Swashbuckler]
 [29Jun2025 02:31:12.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-492, y=71, z=824} BlockPos{x=-489, y=70, z=836}
+[29Jun2025 02:36:56.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Best Friends Forever]
+[29Jun2025 02:40:43.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [The Parrots and the Bats]
+[29Jun2025 02:45:21.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Hammer Time!]
+[29Jun2025 02:46:01.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[29Jun2025 02:46:01.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[29Jun2025 02:46:01.320] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jun2025 02:46:30.235] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.59.47.31:55261] logged in with entity id 12113 at (-463.3976263080578, 36.0, -322.1438587833115)
+[29Jun2025 02:46:30.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game

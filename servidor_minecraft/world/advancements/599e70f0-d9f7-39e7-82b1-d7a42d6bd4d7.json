@@ -6142,6 +6142,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-29 02:40:43 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/iced_dragon_bone_saber": {
     "criteria": {
       "has_ice_dragon_blood": "2025-06-29 02:25:24 +0000"
@@ -6151,6 +6157,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
     "criteria": {
       "has_dragonscales_white": "2025-06-29 02:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-29 02:36:56 +0000"
     },
     "done": true
   },
@@ -6183,6 +6195,12 @@
       "has_ice_dragon_blood": "2025-06-29 02:25:24 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2025-06-29 02:40:43 +0000"
+    },
+    "done": false
   },
   "spartanfire:recipes/iced_dragon_bone_javelin": {
     "criteria": {
@@ -6229,6 +6247,12 @@
   "iceandfire:recipes/combat/armor_white_boots": {
     "criteria": {
       "has_item": "2025-06-29 02:25:31 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-06-29 02:37:24 +0000"
     },
     "done": true
   },

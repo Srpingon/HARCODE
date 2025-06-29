@@ -3538,5 +3538,11 @@
     },
     "done": true
   },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2025-06-29 02:45:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
