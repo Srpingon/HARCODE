@@ -1,4 +1,4 @@
-lead = {}
+traits = {}
 
 [dagger]
 	#Disables all recipes for all Daggers.
@@ -369,26 +369,4 @@ lead = {}
 	#Durability for steel weapons
 	#Range: 1 ~ 100000
 	durability = 480
-	#Set to true to disable steel weapons
-	disable = false
-
-[silver]
-	#Base Damage for silver weapons
-	#Range: 0.1 ~ 100.0
-	base_damage = 1.5
-	#Durability for silver weapons
-	#Range: 1 ~ 100000
-	durability = 48
-	#Set to true to disable silver weapons
-	disable = false
-
-[electrum]
-	#Base Damage for electrum weapons
-	#Range: 0.1 ~ 100.0
-	base_damage = 2.0
-	#Durability for electrum weapons
-	#Range: 1 ~ 100000
-	durability = 180
-	#Set to true to disable electrum weapons
-	disable = false
-
+	#Set to true to disable
