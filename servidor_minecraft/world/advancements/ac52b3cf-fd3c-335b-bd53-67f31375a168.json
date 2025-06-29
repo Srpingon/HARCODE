@@ -3513,5 +3513,11 @@
     },
     "done": true
   },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "has_katana": "2025-06-29 01:38:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
