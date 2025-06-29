@@ -6371,9 +6371,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+  "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
-      "has_item": "2025-06-28 22:15:47 +0000"
+      "killed_fire_dragon": "2025-06-28 21:58:27 +0000"
     },
     "done": true
   },
@@ -6389,39 +6389,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
-    "criteria": {
-      "has_sea_serpent_scales_deepblue": "2025-06-28 22:15:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_sea_serpent": {
-    "criteria": {
-      "killed_fire_dragon": "2025-06-28 21:58:27 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_teal_boots": {
     "criteria": {
       "has_item": "2025-06-28 21:58:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_leggings": {
-    "criteria": {
-      "has_item": "2025-06-28 22:15:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-28 22:15:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_trident": {
-    "criteria": {
-      "has_item": "2025-06-28 21:58:33 +0000"
     },
     "done": true
   },
@@ -6437,15 +6407,45 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_boots": {
+  "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
-      "has_item": "2025-06-28 22:15:47 +0000"
+      "has_item": "2025-06-28 21:58:33 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-06-28 21:58:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-06-28 22:15:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-06-28 22:15:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-06-28 22:15:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-28 22:15:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-06-28 22:15:47 +0000"
     },
     "done": true
   },

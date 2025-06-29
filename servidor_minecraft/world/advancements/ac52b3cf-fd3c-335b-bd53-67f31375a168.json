@@ -3331,5 +3331,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/squid_smithing": {
+    "criteria": {
+      "has_squid": "2025-06-28 23:59:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
