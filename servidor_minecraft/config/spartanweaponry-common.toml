@@ -1,132 +1,4 @@
 
-[projectiles]
-	#Disables Recipes for all new Arrows.
-	disable_new_arrow_recipes = false
-	#Disables Recipes for both Copper Arrows and Copper Bolts.
-	disable_copper_ammo_recipes = false
-	#Disables Recipes for both Diamond Arrows and Diamond Bolts.
-	disable_diamond_ammo_recipes = false
-	#Disables Recipes for both Netherite Arrows and Netherite Bolts.
-	disable_netherite_ammo_recipes = false
-	#Disables all variants of the Arrow Quiver and the Bolt Quiver in this mod
-	disable_quiver_recipes = false
-	#Bows in this blacklist will not get Arrows pulled out of the Arrow Quiver. Use the registry ID of the bow to add to this. e.g. "minecraft:bow"
-	quiver_bow_blacklist = ["botania:crystal_bow", "iceandfire:dragonbone_bow"]
-
-	[projectiles.wood_arrow]
-		#Base damage for wood arrows
-		#Range: 0.1 ~ 100.0
-		base_damage = 0.20000000298023224
-		#Range muliplier for wood arrows
-		#Range: 0.1 ~ 100.0
-		range_multiplier = 1.5
-
-	[projectiles.copper_arrow]
-		#Base damage for copper arrows
-		#Range: 0.1 ~ 100.0
-		base_damage = 2.5
-		#Range muliplier for copper arrows
-		#Range: 0.1 ~ 100.0
-		range_multiplier = 0.8500000238418579
-
-	[projectiles.iron_arrow]
-		#Base damage for iron arrows
-		#Range: 0.1 ~ 100.0
-		base_damage = 3.0
-		#Range muliplier for iron arrows
-		#Range: 0.1 ~ 100.0
-		range_multiplier = 0.75
-
-	[projectiles.diamond_arrow]
-		#Base damage for diamond arrows
-		#Range: 0.1 ~ 100.0
-		base_damage = 3.5
-		#Range muliplier for diamond arrows
-		#Range: 0.1 ~ 100.0
-		range_multiplier = 1.25
-
-	[projectiles.netherite_arrow]
-		#Base damage for netherite arrows
-		#Range: 0.1 ~ 100.0
-		base_damage = 4.0
-		#Range muliplier for netherite arrows
-		#Range: 0.1 ~ 100.0
-		range_multiplier = 1.25
-
-	[projectiles.bolt]
-		#Base damage for bolts
-		#Range: 0.1 ~ 100.0
-		base_damage = 4.0
-		#Range muliplier for bolts
-		#Range: 0.1 ~ 100.0
-		range_multiplier = 1.0
-		#Armor Piercing factor for bolts
-		#Range: 0.0 ~ 1.0
-		armor_piercing_factor = 0.25
-
-	[projectiles.copper_bolt]
-		#Base damage for copper bolts
-		#Range: 0.1 ~ 100.0
-		base_damage = 3.5
-		#Range muliplier for copper bolts
-		#Range: 0.1 ~ 100.0
-		range_multiplier = 1.0
-		#Armor Piercing factor for copper bolts
-		#Range: 0.0 ~ 1.0
-		armor_piercing_factor = 0.125
-
-	[projectiles.diamond_bolt]
-		#Base damage for diamond bolts
-		#Range: 0.1 ~ 100.0
-		base_damage = 5.0
-		#Range muliplier for diamond bolts
-		#Range: 0.1 ~ 100.0
-		range_multiplier = 1.0
-		#Armor Piercing factor for diamond bolts
-		#Range: 0.0 ~ 1.0
-		armor_piercing_factor = 0.5
-
-	[projectiles.netherite_bolt]
-		#Base damage for netherite bolts
-		#Range: 0.1 ~ 100.0
-		base_damage = 5.5
-		#Range muliplier for netherite bolts
-		#Range: 0.1 ~ 100.0
-		range_multiplier = 1.0
-		#Armor Piercing factor for netherite bolts
-		#Range: 0.0 ~ 1.0
-		armor_piercing_factor = 0.5
-
-	[projectiles.explosive]
-		#Base damage for explosive arrows
-		#Range: 0.1 ~ 10.0
-		base_damage = 2.0
-		#Range muliplier for explosive arrows
-		#Range: 0.1 ~ 100.0
-		range_multiplier = 1.0
-
-[explosives]
-	#Disables all recipes for explosive related items
-	disable_recipe = false
-	#Disables terrain damage for explosives in this mod such as Dynamite and Explosive Arrows. Is overridden by the 'mobGriefing' gamerule.
-	disable_terrain_damage = false
-	#Time (in ticks) it takes for Dynamite to explode
-	#Range: 20 ~ 600
-	fuse_ticks_dynamite = 60
-	#Explosion strength for Dynamite
-	#Range: 0.10000000149011612 ~ 10.0
-	explosion_strength_dynamite = 2.0
-
-[platinum]
-	#Base Damage for platinum weapons
-	#Range: 0.1 ~ 100.0
-	base_damage = 3.5
-	#Durability for platinum weapons
-	#Range: 1 ~ 100000
-	durability = 1024
-	#Set to true to disable platinum weapons
-	disable = false
-
 [dagger]
 	#Disables all recipes for all Daggers.
 	disable = false
@@ -559,6 +431,16 @@
 	#Set to true to disable constantan weapons
 	disable = false
 
+[platinum]
+	#Base Damage for platinum weapons
+	#Range: 0.1 ~ 100.0
+	base_damage = 3.5
+	#Durability for platinum weapons
+	#Range: 1 ~ 100000
+	durability = 1024
+	#Set to true to disable platinum weapons
+	disable = false
+
 [aluminum]
 	#Base Damage for aluminum weapons
 	#Range: 0.1 ~ 100.0
@@ -568,6 +450,124 @@
 	durability = 400
 	#Set to true to disable aluminum weapons
 	disable = false
+
+[explosives]
+	#Disables all recipes for explosive related items
+	disable_recipe = false
+	#Disables terrain damage for explosives in this mod such as Dynamite and Explosive Arrows. Is overridden by the 'mobGriefing' gamerule.
+	disable_terrain_damage = false
+	#Time (in ticks) it takes for Dynamite to explode
+	#Range: 20 ~ 600
+	fuse_ticks_dynamite = 60
+	#Explosion strength for Dynamite
+	#Range: 0.10000000149011612 ~ 10.0
+	explosion_strength_dynamite = 2.0
+
+[projectiles]
+	#Disables Recipes for all new Arrows.
+	disable_new_arrow_recipes = false
+	#Disables Recipes for both Copper Arrows and Copper Bolts.
+	disable_copper_ammo_recipes = false
+	#Disables Recipes for both Diamond Arrows and Diamond Bolts.
+	disable_diamond_ammo_recipes = false
+	#Disables Recipes for both Netherite Arrows and Netherite Bolts.
+	disable_netherite_ammo_recipes = false
+	#Disables all variants of the Arrow Quiver and the Bolt Quiver in this mod
+	disable_quiver_recipes = false
+	#Bows in this blacklist will not get Arrows pulled out of the Arrow Quiver. Use the registry ID of the bow to add to this. e.g. "minecraft:bow"
+	quiver_bow_blacklist = ["botania:crystal_bow", "iceandfire:dragonbone_bow"]
+
+	[projectiles.wood_arrow]
+		#Base damage for wood arrows
+		#Range: 0.1 ~ 100.0
+		base_damage = 0.20000000298023224
+		#Range muliplier for wood arrows
+		#Range: 0.1 ~ 100.0
+		range_multiplier = 1.5
+
+	[projectiles.copper_arrow]
+		#Base damage for copper arrows
+		#Range: 0.1 ~ 100.0
+		base_damage = 2.5
+		#Range muliplier for copper arrows
+		#Range: 0.1 ~ 100.0
+		range_multiplier = 0.8500000238418579
+
+	[projectiles.iron_arrow]
+		#Base damage for iron arrows
+		#Range: 0.1 ~ 100.0
+		base_damage = 3.0
+		#Range muliplier for iron arrows
+		#Range: 0.1 ~ 100.0
+		range_multiplier = 0.75
+
+	[projectiles.diamond_arrow]
+		#Base damage for diamond arrows
+		#Range: 0.1 ~ 100.0
+		base_damage = 3.5
+		#Range muliplier for diamond arrows
+		#Range: 0.1 ~ 100.0
+		range_multiplier = 1.25
+
+	[projectiles.netherite_arrow]
+		#Base damage for netherite arrows
+		#Range: 0.1 ~ 100.0
+		base_damage = 4.0
+		#Range muliplier for netherite arrows
+		#Range: 0.1 ~ 100.0
+		range_multiplier = 1.25
+
+	[projectiles.bolt]
+		#Base damage for bolts
+		#Range: 0.1 ~ 100.0
+		base_damage = 4.0
+		#Range muliplier for bolts
+		#Range: 0.1 ~ 100.0
+		range_multiplier = 1.0
+		#Armor Piercing factor for bolts
+		#Range: 0.0 ~ 1.0
+		armor_piercing_factor = 0.25
+
+	[projectiles.copper_bolt]
+		#Base damage for copper bolts
+		#Range: 0.1 ~ 100.0
+		base_damage = 3.5
+		#Range muliplier for copper bolts
+		#Range: 0.1 ~ 100.0
+		range_multiplier = 1.0
+		#Armor Piercing factor for copper bolts
+		#Range: 0.0 ~ 1.0
+		armor_piercing_factor = 0.125
+
+	[projectiles.diamond_bolt]
+		#Base damage for diamond bolts
+		#Range: 0.1 ~ 100.0
+		base_damage = 5.0
+		#Range muliplier for diamond bolts
+		#Range: 0.1 ~ 100.0
+		range_multiplier = 1.0
+		#Armor Piercing factor for diamond bolts
+		#Range: 0.0 ~ 1.0
+		armor_piercing_factor = 0.5
+
+	[projectiles.netherite_bolt]
+		#Base damage for netherite bolts
+		#Range: 0.1 ~ 100.0
+		base_damage = 5.5
+		#Range muliplier for netherite bolts
+		#Range: 0.1 ~ 100.0
+		range_multiplier = 1.0
+		#Armor Piercing factor for netherite bolts
+		#Range: 0.0 ~ 1.0
+		armor_piercing_factor = 0.5
+
+	[projectiles.explosive]
+		#Base damage for explosive arrows
+		#Range: 0.1 ~ 10.0
+		base_damage = 2.0
+		#Range muliplier for explosive arrows
+		#Range: 0.1 ~ 100.0
+		range_multiplier = 1.0
 
 [loot]
 	#Set to false to disable spawning Iron Weapons in Village Weaponsmith chests via loot table injection
@@ -624,7 +624,7 @@
 		check_armor_value = false
 		#Max armor value allowed for any damage bonus that checks for armor to apply, without any armor equipped
 		#Range: 1.0 ~ 50.0
-		max_armor_value = 1.0
+		max_armor_value = 0.0
 		#Changes the "Undead Damage Bonus" Weapon Trait multiplier value
 		#Range: 1.0 ~ 50.0
 		undead_multiplier = 1.5
