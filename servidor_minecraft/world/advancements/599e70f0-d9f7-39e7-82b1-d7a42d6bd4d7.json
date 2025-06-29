@@ -6100,12 +6100,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_leggings": {
-    "criteria": {
-      "has_item": "2025-06-29 02:25:31 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/iced_dragon_bone_scythe": {
     "criteria": {
       "has_ice_dragon_blood": "2025-06-29 02:25:24 +0000"
@@ -6124,12 +6118,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_helmet": {
-    "criteria": {
-      "has_item": "2025-06-29 02:25:31 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/iced_dragon_bone_battleaxe": {
     "criteria": {
       "has_ice_dragon_blood": "2025-06-29 02:25:24 +0000"
@@ -6142,27 +6130,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-06-29 02:40:43 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/iced_dragon_bone_saber": {
     "criteria": {
       "has_ice_dragon_blood": "2025-06-29 02:25:24 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
-    "criteria": {
-      "has_dragonscales_white": "2025-06-29 02:25:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-06-29 02:36:56 +0000"
     },
     "done": true
   },
@@ -6178,12 +6148,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-29 02:25:31 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/iced_dragon_bone_halberd": {
     "criteria": {
       "has_ice_dragon_blood": "2025-06-29 02:25:24 +0000"
@@ -6195,12 +6159,6 @@
       "has_ice_dragon_blood": "2025-06-29 02:25:24 +0000"
     },
     "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:wolf": "2025-06-29 02:40:43 +0000"
-    },
-    "done": false
   },
   "spartanfire:recipes/iced_dragon_bone_javelin": {
     "criteria": {
@@ -6244,33 +6202,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_boots": {
-    "criteria": {
-      "has_item": "2025-06-29 02:25:31 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_fishing_hut": {
-    "criteria": {
-      "location0": "2025-06-29 02:37:24 +0000"
-    },
-    "done": true
-  },
   "spartanfire:recipes/iced_dragon_bone_katana": {
     "criteria": {
       "has_ice_dragon_blood": "2025-06-29 02:25:24 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_ice_spikes": {
-    "criteria": {
-      "has_item": "2025-06-29 02:28:20 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
-    "criteria": {
-      "has_silver_nugget": "2025-06-29 02:28:17 +0000"
     },
     "done": true
   },
@@ -6313,6 +6247,78 @@
   "spartanfire:recipes/iced_dragon_bone_lance": {
     "criteria": {
       "has_ice_dragon_blood": "2025-06-29 02:25:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-06-29 02:25:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-06-29 02:25:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-06-29 02:25:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-29 02:25:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-06-29 02:25:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-06-29 02:28:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-06-29 02:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-29 02:36:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-06-29 02:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-29 02:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2025-06-29 02:40:43 +0000"
+    },
+    "done": false
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-06-29 02:45:14 +0000"
     },
     "done": true
   },
