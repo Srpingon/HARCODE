@@ -312,3 +312,20 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [29Jun2025 03:13:35.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
 [29Jun2025 03:13:43.200] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:47319] logged in with entity id 3147 at (-451.54145609499415, 47.0, -295.88168631104764)
 [29Jun2025 03:13:43.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[29Jun2025 03:15:59.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Modified block data of -458, 39, -318]
+[29Jun2025 03:16:13.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Modified block data of -458, 39, -317]
+[29Jun2025 03:16:36.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Modified block data of -453, 38, -323]
+[29Jun2025 03:16:50.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Modified block data of -453, 38, -324]
+[29Jun2025 03:17:02.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> xaero-waypoint:dragon abajo:D:-648:62:566:11:false:0:Internal-overworld-waypoints
+[29Jun2025 03:19:17.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ZZZZZZZZZZZZZZ
+[29Jun2025 03:19:21.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> z
+[29Jun2025 03:32:00.190] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[29Jun2025 03:33:07.110] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[29Jun2025 03:33:08.381] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-881, y=5, z=619} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Jun2025 03:33:08.382] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-881, y=5, z=619}
+[29Jun2025 03:33:13.973] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-896, y=5, z=600} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Jun2025 03:33:13.974] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-896, y=5, z=600}
+[29Jun2025 03:33:14.646] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-888, y=5, z=650} but found not block entity block Block{minecraft:water}[level=0] at location
+[29Jun2025 03:33:14.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-888, y=5, z=650}
+[29Jun2025 03:33:21.198] [Server thread/INFO] [Scaling Health/]: Blight Spider was killed by Anzu_ara
+[29Jun2025 03:34:02.982] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
