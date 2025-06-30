@@ -414,3 +414,7 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [30Jun2025 22:58:51.492] [Server thread/INFO] [Scaling Health/]: Blight Drowned was killed by C0LIGAMES
 [30Jun2025 22:59:03.047] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
 [30Jun2025 22:59:03.243] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[30Jun2025 23:04:07.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
+[30Jun2025 23:04:16.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[30Jun2025 23:04:31.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
+[30Jun2025 23:04:37.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]

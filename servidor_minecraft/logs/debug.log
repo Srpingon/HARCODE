@@ -6112,3 +6112,69 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [30Jun2025 22:58:53.238] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [30Jun2025 22:59:03.047] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
 [30Jun2025 22:59:03.243] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[30Jun2025 23:01:37.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 23:01:37.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 23:03:49.186] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:49.690] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:50.192] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:50.690] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:51.192] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:51.693] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:52.192] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:52.695] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:53.191] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:53.692] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:54.194] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:54.691] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:55.192] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:55.690] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:56.191] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:56.689] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:57.187] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:57.691] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:58.192] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:58.689] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:59.190] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:03:59.695] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:00.193] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:00.694] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:01.191] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:01.689] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:02.188] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:02.689] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:03.191] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:03.691] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:04.194] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:04.689] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:05.190] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:05.691] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:06.191] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:06.691] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:07.187] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:07.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
+[30Jun2025 23:04:16.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[30Jun2025 23:04:16.644] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:17.141] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:17.641] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:18.144] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:04:31.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
+[30Jun2025 23:04:37.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[30Jun2025 23:06:37.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jun2025 23:06:37.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jun2025 23:08:38.885] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:08:39.840] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:08:41.034] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:08:42.878] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:08:44.724] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:08:47.286] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:08:49.141] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:08:49.634] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:08:50.134] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:08:50.634] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:08:51.136] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:08:51.635] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:09:05.535] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:09:15.994] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:09:16.989] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:09:17.991] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30Jun2025 23:10:53.436] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
