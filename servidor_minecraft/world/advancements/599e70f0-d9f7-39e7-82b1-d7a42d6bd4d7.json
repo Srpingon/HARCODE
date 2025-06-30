@@ -6451,5 +6451,11 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-06-30 22:47:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

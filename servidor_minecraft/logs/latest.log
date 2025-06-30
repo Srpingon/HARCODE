@@ -411,3 +411,6 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [30Jun2025 22:48:05.536] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [30Jun2025 22:48:05.641] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [30Jun2025 22:48:05.737] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Jun2025 22:58:51.492] [Server thread/INFO] [Scaling Health/]: Blight Drowned was killed by C0LIGAMES
+[30Jun2025 22:59:03.047] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[30Jun2025 22:59:03.243] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
